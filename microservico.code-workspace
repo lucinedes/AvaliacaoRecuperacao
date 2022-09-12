@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "clientes-ms"
+		},
+		{
+			"path": "locacao-ms"
+		},
+		{
+			"path": "server"
+		},
+		{
+			"path": "gateway"
+		}
+	]
+}
